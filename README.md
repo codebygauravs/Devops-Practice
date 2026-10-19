@@ -1,4 +1,4 @@
-# DevOps Beginner Project 🚀
+# DevOps  Project 🚀
 
 [![Docker Build CI](https://github.com/codebygauravs/Devops-Practice/actions/workflows/docker-build.yml/badge.svg)](https://github.com/codebygauravs/Devops-Practice/actions/workflows/docker-build.yml)
 
